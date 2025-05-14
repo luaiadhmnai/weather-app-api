@@ -37,7 +37,7 @@ I've studied from various online resources, tutorials, and documentation to comp
 ## ⚙️ Getting Started
 
 1. Clone the Repository:
-   git clone https://github.com/YOUR_USERNAME/weather-app.git
+   git clone https://github.com/luaiadhmani/weather-app-api.git
    cd weather-app
 
 2. Install Dependencies:
